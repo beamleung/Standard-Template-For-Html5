@@ -1,0 +1,20 @@
+/* TEAM */
+Your title: Your name.
+QQ: your QQ Number.
+Location: City, Country.
+
+Front end Engineer: Beam.Leung.
+QQ:63982161.
+Location: JinHua,ZheJiang,China.
+
+/* PROJECT */
+Name: nProject Base.
+Version: 1.0.
+
+/* SITE */
+Last update: 2014/08/13.
+Standards: HTML5, CSS3.
+Components:
+	Html5Shiv - 3.7.2,
+	Modernizr - 2.8.2,
+	jQuery - 2.1.1,
